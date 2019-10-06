@@ -1,0 +1,9 @@
+// 首页部分
+export const ACTION_SET_FROM = 'SET_FROM' // 起点
+export const ACTION_SET_TO = 'SET_TO' // 终点
+export const ACTION_SET_IS_CITY_SELECTOR_VISIBLE =
+  'ACTION_SET_IS_CITY_SELECTOR_VISIBLE' // 是否显示城市选择浮层
+export const ACTION_SET_CITY_DATA = 'ACTION_SET_CITY_DATA' // 城市选择数据
+export const ACTION_SET_IS_LOADING = 'ACTION_SET_IS_LOADING' // 是否正在加载城市数据
+export const ACTION_SET_CURRENT_SELECTING_LEFT_CITY =
+  'ACTION_SET_CURRENT_SELECTING_LEFT_CITY' // 是否选中起点城市
